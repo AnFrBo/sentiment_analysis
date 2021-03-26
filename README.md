@@ -11,15 +11,15 @@ The most important files are the following:
 
 SentMap.R: Main code
 
-ui.R: Specifies the general structure of the shinydashboard (it is saved in the Data folder)
+ui.R: Specifies the general structure of the shinydashboard
 
-server.R: Plots the element of the shinydashboard (it is saved in the Data folder)
-
-
-Data: Folder containing the i) Executive Summaries for every country and year (it is required to run the SentMap.R code), ii) The results form the Sentiment Analysis (dictionary_year.Rda), iii) List of positive and negative words for the Minqing dictionary and iV) ui.R and server.R files required to run the Shinyapp.
+server.R: Plots the element of the shinydashboard
 
 
-Metainfo.txt: General Information about authors and project
+Repository containing the i) Executive Summaries for every country and year (it is required to run the SentMap.R code), ii) The results form the Sentiment Analysis (dictionary_year.Rda), iii) List of positive and negative words for the Minqing dictionary and iV) ui.R and server.R files required to run the Shinyapp.
+
+
+Metainfo.txt: General information about authors and project
 
 
 All analyses were conducted using RStudio.
